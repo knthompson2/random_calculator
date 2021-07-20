@@ -1,4 +1,5 @@
 require './lib/calculator'
+require 'pry'
 
 RSpec.describe Calculator do
   it "exists" do
